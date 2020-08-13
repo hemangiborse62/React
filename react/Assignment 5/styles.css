@@ -1,0 +1,19 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.circle {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  font-size: 30px;
+  color: skyblue;
+  line-height: 200px;
+  text-align: center;
+  background: black;
+  border: 15px solid gray;
+}
+.first {
+  background-color: black;
+  color: white;
+}

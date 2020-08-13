@@ -1,0 +1,10 @@
+.App {
+  font-family: sans-serif;
+  text-align: left;
+}
+.margin {
+  padding-left: 100px;
+}
+hr {
+  width: 1000%;
+}
